@@ -1,6 +1,6 @@
 # 🏠 Simple House Pricing Predictor
 
-![https://app-linear-regression-model.streamlit.app](https://app-linear-regression-model.streamlit.app/)
+[Streamlit.app](https://app-linear-regression-model.streamlit.app)
 
 <img src="https://github.com/CesarAugusto88/streamlit_model/blob/main/streamlit.png" alt="Streamlit">
 
